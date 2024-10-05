@@ -1,0 +1,258 @@
+"1","Anti-Magic Aura","leg","45","dfc03654-183e-47a5-88c3-d4b93b9375d0","it","Normal"
+"1","Autonomous Assembler","bro","34","48bc06b7-ae36-4e6e-9f7e-7085e787e1eb","de","Normal"
+"1","Barbary Apes","leg","176","84e44efb-6857-4009-b080-624e2fd18eb7","it","Normal"
+"1","Battering Ram","4ed","297","284443d6-6c81-4b46-b1d5-7725ef2f1a5b","de","Normal"
+"1","Boomerang","leg","48","7561c7be-d6e3-48ca-aa21-4d0b504d0f34","it","Normal"
+"1","Burrowing Razormaw","bro","173","beb6488c-a3ea-4938-8e87-8c84f5fd0fb4","de","Normal"
+"1","Coastal Bulwark","bro","76","311ab2ea-9df9-4986-abbd-f3ee1c92e08e","de","Normal"
+"1","Drain Life","4bb","132","483f2a34-bac1-477d-82be-56af75338bbd","jp","Normal"
+"1","Energy Flux","4ed","68","3fe6f63f-0456-4d51-a0a1-e2b7d123cbe2","de","Normal"
+"1","Feint","leg","146","8cfaa737-d9be-4f00-878b-3a86614abee2","it","Normal"
+"1","Frozen Shade","5ed","163","27741461-3791-49c1-be4b-944c5def2654","jp","Normal"
+"1","Gaseous Form","ren","32","9d7cf27c-c241-4c16-a84d-30e1774723c8","de","Normal"
+"1","Giant Growth","bro","183","e6196416-d596-4ecb-b5c1-efc3ae102bb3","de","Normal"
+"1","Grapeshot Catapult","4bb","322","b30fb357-6a96-424d-a953-cce6c932c213","jp","Normal"
+"1","Great Defender","leg","16","82a0471d-85f7-462a-8d09-d9c6765ac5c4","it","Normal"
+"1","Headless Horseman","leg","102","106717fd-342f-425e-b1ed-c37230124c70","it","Normal"
+"1","Holy Armor","4ed","29","05c0ad22-09bc-4ce5-9703-9758c6af6826","de","Normal"
+"1","Holy Day","leg","20","9e7e2e0d-8f34-4db9-b239-377820a8f5ce","it","Normal"
+"1","Holy Strength","4ed","30","e09e20c3-02b5-4b5a-8a4c-bfbff8a9dce0","de","Normal"
+"1","Hornet Cobra","leg","190","d9703dc8-84e3-485b-9cdf-de29eb2d76fb","it","Normal"
+"1","Jamuraan Lion","vis","10","cd66acb7-5180-40dc-8b5b-804d5fd5d5a4","it","Normal"
+"1","Keepers of the Faith","leg","24","0a0d031a-9e17-4ed7-9450-a9399ce0122f","it","Normal"
+"1","Mahamoti Djinn","3ed","66","d4fe7d6f-919e-4568-97c3-21a99ee68145","de","Normal"
+"1","Marsh Viper","4ed","263","fdccc49c-f105-4d7e-abe4-b94ab9912074","de","Normal"
+"1","Mishra's Research Desk","bro","162","6245c362-3e3a-47d4-9554-43c63d55b76a","de","Normal"
+"1","Mishra, Excavation Prodigy","bro","140","cbd59fd0-d78f-4a82-9a6e-f6c9b946a422","de","Normal"
+"1","Phyrexian Revoker","brr","40","689095f5-7d70-4ea0-8fed-750bebdf54b2","de","Normal"
+"1","Pyrotechnics","leg","161","eed2c8a1-eb03-44d6-90f4-f5ae58ed01f6","it","Normal"
+"1","Ragnar","leg","250","55cddcd2-2245-40cf-8b87-910930f6978e","it","Normal"
+"1","Raise Dead","4ed","156","5d35d486-09a7-4409-bce3-ce94f49f4ee3","de","Normal"
+"1","Sea Serpent","4ed","98","c2357526-a903-4ee0-a6ea-53cea1a86ece","de","Normal"
+"1","Seeker","4bb","49","d232c6ef-cecb-45f3-867c-a4952cc44b93","jp","Normal"
+"1","Self-Assembler","brr","51","04404df6-4d50-4fa8-bd2b-fda38f3e0328","de","Normal"
+"1","Spectral Cloak","leg","78","ce1d66e5-abd7-4421-af6c-b2bd3a5c7daa","it","Normal"
+"1","Springleaf Drum","brr","55","796b806c-cab5-4c71-8d4a-700cacdd6b53","de","Foil"
+"1","Sylvan Library","leg","207","adda492f-9edf-4f19-adf7-87195946fd5e","it","Normal"
+"1","Trench Stalker","bro","116","b593bb52-c6c7-48f5-ad21-50c7e079de10","de","Normal"
+"1","Wall of Caltrops","leg","42","fc4531cb-7b4c-407d-9a14-f66a18e03b6c","it","Normal"
+"1","Wall of Tombstones","leg","129","53302023-e52b-40ee-9b68-8d21209d31dc","it","Normal"
+"1","Wall of Wood","4bb","284","e7c28511-dd20-4c1b-8ca5-c3b501ba71b2","jp","Normal"
+"1","Winding Canyons","wth","167","6166247d-f777-4630-b31b-70a82c536b84","zht","Normal"
+"1","Word of Binding","4ed","172","22088a29-375f-40fe-b664-dbd49a6b785d","de","Normal"
+
+
+Line number: 248
+Raw data: "1","Anti-Magic Aura","leg","45","dfc03654-183e-47a5-88c3-d4b93b9375d0","it","Normal"
+Imported: No
+Ambiguous: No
+Not Found: Yes
+Line number: 412
+Raw data: "1","Autonomous Assembler","bro","34","48bc06b7-ae36-4e6e-9f7e-7085e787e1eb","de","Normal"
+Imported: No
+Ambiguous: No
+Not Found: Yes
+Line number: 493
+Raw data: "1","Barbary Apes","leg","176","84e44efb-6857-4009-b080-624e2fd18eb7","it","Normal"
+Imported: No
+Ambiguous: No
+Not Found: Yes
+Line number: 527
+Raw data: "1","Battering Ram","4ed","297","284443d6-6c81-4b46-b1d5-7725ef2f1a5b","de","Normal"
+Imported: No
+Ambiguous: No
+Not Found: Yes
+Line number: 780
+Raw data: "1","Boomerang","leg","48","7561c7be-d6e3-48ca-aa21-4d0b504d0f34","it","Normal"
+Imported: No
+Ambiguous: No
+Not Found: Yes
+Line number: 922
+Raw data: "1","Burrowing Razormaw","bro","173","beb6488c-a3ea-4938-8e87-8c84f5fd0fb4","de","Normal"
+Imported: No
+Ambiguous: No
+Not Found: Yes
+Line number: 1193
+Raw data: "1","Coastal Bulwark","bro","76","311ab2ea-9df9-4986-abbd-f3ee1c92e08e","de","Normal"
+Imported: No
+Ambiguous: No
+Not Found: Yes
+Line number: 1847
+Raw data: "1","Drain Life","4bb","132","483f2a34-bac1-477d-82be-56af75338bbd","jp","Normal"
+Imported: No
+Ambiguous: No
+Not Found: Yes
+Line number: 2114
+Raw data: "1","Energy Flux","4ed","68","3fe6f63f-0456-4d51-a0a1-e2b7d123cbe2","de","Normal"
+Imported: No
+Ambiguous: No
+Not Found: Yes
+Line number: 2343
+Raw data: "1","Feint","leg","146","8cfaa737-d9be-4f00-878b-3a86614abee2","it","Normal"
+Imported: No
+Ambiguous: No
+Not Found: Yes
+Line number: 2622
+Raw data: "1","Frozen Shade","5ed","163","27741461-3791-49c1-be4b-944c5def2654","jp","Normal"
+Imported: No
+Ambiguous: No
+Not Found: Yes
+Line number: 2688
+Raw data: "1","Gaseous Form","ren","32","9d7cf27c-c241-4c16-a84d-30e1774723c8","de","Normal"
+Imported: No
+Ambiguous: No
+Not Found: Yes
+Line number: 2755
+Raw data: "1","Giant Growth","bro","183","e6196416-d596-4ecb-b5c1-efc3ae102bb3","de","Normal"
+Imported: No
+Ambiguous: No
+Not Found: Yes
+Line number: 2928
+Raw data: "1","Grapeshot Catapult","4bb","322","b30fb357-6a96-424d-a953-cce6c932c213","jp","Normal"
+Imported: No
+Ambiguous: No
+Not Found: Yes
+Line number: 2957
+Raw data: "1","Great Defender","leg","16","82a0471d-85f7-462a-8d09-d9c6765ac5c4","it","Normal"
+Imported: No
+Ambiguous: No
+Not Found: Yes
+Line number: 3096
+Raw data: "1","Headless Horseman","leg","102","106717fd-342f-425e-b1ed-c37230124c70","it","Normal"
+Imported: No
+Ambiguous: No
+Not Found: Yes
+Line number: 3216
+Raw data: "1","Holy Armor","4ed","29","05c0ad22-09bc-4ce5-9703-9758c6af6826","de","Normal"
+Imported: No
+Ambiguous: No
+Not Found: Yes
+Line number: 3219
+Raw data: "1","Holy Day","leg","20","9e7e2e0d-8f34-4db9-b239-377820a8f5ce","it","Normal"
+Imported: No
+Ambiguous: No
+Not Found: Yes
+Line number: 3223
+Raw data: "1","Holy Strength","4ed","30","e09e20c3-02b5-4b5a-8a4c-bfbff8a9dce0","de","Normal"
+Imported: No
+Ambiguous: No
+Not Found: Yes
+Line number: 3252
+Raw data: "1","Hornet Cobra","leg","190","d9703dc8-84e3-485b-9cdf-de29eb2d76fb","it","Normal"
+Imported: No
+Ambiguous: No
+Not Found: Yes
+Line number: 3597
+Raw data: "1","Jamuraan Lion","vis","10","cd66acb7-5180-40dc-8b5b-804d5fd5d5a4","it","Normal"
+Imported: No
+Ambiguous: No
+Not Found: Yes
+Line number: 3723
+Raw data: "1","Keepers of the Faith","leg","24","0a0d031a-9e17-4ed7-9450-a9399ce0122f","it","Normal"
+Imported: No
+Ambiguous: No
+Not Found: Yes
+Line number: 4085
+Raw data: "1","Mahamoti Djinn","3ed","66","d4fe7d6f-919e-4568-97c3-21a99ee68145","de","Normal"
+Imported: No
+Ambiguous: No
+Not Found: Yes
+Line number: 4160
+Raw data: "1","Marsh Viper","4ed","263","fdccc49c-f105-4d7e-abe4-b94ab9912074","de","Normal"
+Imported: No
+Ambiguous: No
+Not Found: Yes
+Line number: 4347
+Raw data: "1","Mishra's Research Desk","bro","162","6245c362-3e3a-47d4-9554-43c63d55b76a","de","Normal"
+Imported: No
+Ambiguous: No
+Not Found: Yes
+Line number: 4350
+Raw data: "1","Mishra, Excavation Prodigy","bro","140","cbd59fd0-d78f-4a82-9a6e-f6c9b946a422","de","Normal"
+Imported: No
+Ambiguous: No
+Not Found: Yes
+Line number: 4983
+Raw data: "1","Phyrexian Revoker","brr","40","689095f5-7d70-4ea0-8fed-750bebdf54b2","de","Normal"
+Imported: No
+Ambiguous: No
+Not Found: Yes
+Line number: 5222
+Raw data: "1","Pyrotechnics","leg","161","eed2c8a1-eb03-44d6-90f4-f5ae58ed01f6","it","Normal"
+Imported: No
+Ambiguous: No
+Not Found: Yes
+Line number: 5273
+Raw data: "1","Ragnar","leg","250","55cddcd2-2245-40cf-8b87-910930f6978e","it","Normal"
+Imported: No
+Ambiguous: No
+Not Found: Yes
+Line number: 5284
+Raw data: "1","Raise Dead","4ed","156","5d35d486-09a7-4409-bce3-ce94f49f4ee3","de","Normal"
+Imported: No
+Ambiguous: No
+Not Found: Yes
+Line number: 5836
+Raw data: "1","Sea Serpent","4ed","98","c2357526-a903-4ee0-a6ea-53cea1a86ece","de","Normal"
+Imported: No
+Ambiguous: No
+Not Found: Yes
+Line number: 5877
+Raw data: "1","Seeker","4bb","49","d232c6ef-cecb-45f3-867c-a4952cc44b93","jp","Normal"
+Imported: No
+Ambiguous: No
+Not Found: Yes
+Line number: 5902
+Raw data: "1","Self-Assembler","brr","51","04404df6-4d50-4fa8-bd2b-fda38f3e0328","de","Normal"
+Imported: No
+Ambiguous: No
+Not Found: Yes
+Line number: 6333
+Raw data: "1","Spectral Cloak","leg","78","ce1d66e5-abd7-4421-af6c-b2bd3a5c7daa","it","Normal"
+Imported: No
+Ambiguous: No
+Not Found: Yes
+Line number: 6417
+Raw data: "1","Springleaf Drum","brr","55","796b806c-cab5-4c71-8d4a-700cacdd6b53","de","Foil"
+Imported: No
+Ambiguous: No
+Not Found: Yes
+Line number: 6684
+Raw data: "1","Sylvan Library","leg","207","adda492f-9edf-4f19-adf7-87195946fd5e","it","Normal"
+Imported: No
+Ambiguous: No
+Not Found: Yes
+Line number: 7127
+Raw data: "1","Trench Stalker","bro","116","b593bb52-c6c7-48f5-ad21-50c7e079de10","de","Normal"
+Imported: No
+Ambiguous: No
+Not Found: Yes
+Line number: 7481
+Raw data: "1","Wall of Caltrops","leg","42","fc4531cb-7b4c-407d-9a14-f66a18e03b6c","it","Normal"
+Imported: No
+Ambiguous: No
+Not Found: Yes
+Line number: 7511
+Raw data: "1","Wall of Tombstones","leg","129","53302023-e52b-40ee-9b68-8d21209d31dc","it","Normal"
+Imported: No
+Ambiguous: No
+Not Found: Yes
+Line number: 7517
+Raw data: "1","Wall of Wood","4bb","284","e7c28511-dd20-4c1b-8ca5-c3b501ba71b2","jp","Normal"
+Imported: No
+Ambiguous: No
+Not Found: Yes
+Line number: 7667
+Raw data: "1","Winding Canyons","wth","167","6166247d-f777-4630-b31b-70a82c536b84","zht","Normal"
+Imported: No
+Ambiguous: No
+Not Found: Yes
+Errors (1)
+
+    Unknown language: ZHT
+
+Line number: 7720
+Raw data: "1","Word of Binding","4ed","172","22088a29-375f-40fe-b664-dbd49a6b785d","de","Normal"
+Imported: No
+Ambiguous: No
+Not Found: Yes
