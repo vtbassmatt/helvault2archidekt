@@ -1,17 +1,18 @@
 --Helvault backup -> Archidekt CSV import
---Import using:
---  Quantity | Card Name | Set Code | Collector Number | Scryfall Id | Language | Foil/Variant
+--Import using "Helvault" settings but remove blanks and fix up
+-- last column to be Foil:
+--  Collector Number | Language | Card Name | Quantity | Scryfall Id | Set Code | Foil/Variant
 SELECT
-  COUNT() AS COUNT,
-	ZFACENAME,
-  ZPARSEDSETCODE,
   ZCOLLECTORNUMBER,
-  ZSCRYFALLID,
   CASE ZPARSEDLANGUAGE
    WHEN 'ph' THEN 'en'
    WHEN 'ja' THEN 'jp'
    ELSE ZPARSEDLANGUAGE
    END AS LANGUAGE,
+	ZFACENAME,
+  COUNT() AS COUNT,
+  ZSCRYFALLID,
+  ZPARSEDSETCODE,
   CASE ZPARSEDEXTRAS
    WHEN 'foil' THEN 'Foil'
    WHEN 'etchedFoil' THEN 'Foil'
